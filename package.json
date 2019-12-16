@@ -5,7 +5,8 @@
   "author": "Artur Arseniev",
   "license": "BSD-3-Clause",
   "homepage": "http://grapesjs.com",
-  "main": "dist/grapes.min.js",
+  "main": "src/index.js",
+  "types": "dist/grapes.d.ts",
   "sideEffects": [
     "*.vue",
     "*.css",
